@@ -1,8 +1,9 @@
 -Hello word :D
 ---meu nome é kauê
 -----quero aprender
-------faço senai 
--------curso de logica de programação
+------faço senai
+------- gosto de HQ´s
+--------curso de logica de programação
 --------apenas para postar os meus trabalhos.
 ---------(" o nome da conta esta de tras para frente").....
 
